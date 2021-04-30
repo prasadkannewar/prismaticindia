@@ -1,6 +1,6 @@
 # Source code for Spencer Hill's Solar energy website
 This repository houses the source code I use to generate [my solar energy
-website](https://www.prismaticindia.in/~shill/).  I write the website
+website](https://www.prismaticindia.in/).  I write the website
 as a set of [Emacs org-mode](http://orgmode.org/) files, and then use
 org's [publishing](http://orgmode.org/manual/Publishing.html)
 capabilities to generate the HTML.
